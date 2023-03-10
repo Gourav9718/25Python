@@ -1,0 +1,20 @@
+#string is a set of sequence of character
+
+f=("Gaurav")
+print(f)
+
+print("This is Gaurav Goyal I have a Sweet Girl")
+
+# aplabetic ko hum index number se judgement krte hi
+# Postitive number
+#  G     A   U   R   A   V
+#  0     1   2   3   4   5
+
+# Negetive number
+# -6    -5  -4  -3  -2  -1
+#  G     A   U   R   A   V
+
+f=("Gaurav")
+#string is immutable
+#string support indexing
+#string support slicing
