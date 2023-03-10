@@ -19,3 +19,6 @@ print(string.punctuation)
 
 _a="Gaurav"
 print(_a)
+
+a=15
+print(a)
